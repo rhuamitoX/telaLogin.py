@@ -1,0 +1,32 @@
+[
+    {
+        "titular": "001",
+        "agencia": "Rhuan",
+        "numero": "9924-7",
+        "cpf": "123.456.789-21",
+        "saldo": 0,
+        "senha": 341564,
+        "chavepix": []
+    },
+    {
+        "titular": "002",
+        "agencia": "Jaqueline",
+        "numero": "9619-1",
+        "cpf": "654.780.969-20",
+        "saldo": 0,
+        "senha": 370435,
+        "chavepix": []
+    },
+    {
+        "titular": "003",
+        "agencia": "Paninick",
+        "numero": "9954-5",
+        "cpf": "969.420.666-13",
+        "saldo": 0,
+        "senha": 248872,
+        "chavepix": []
+    }
+    
+       
+    
+]
